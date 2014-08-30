@@ -1,0 +1,2998 @@
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dum.dll 9.18.13.3165]
+    Renderer: NVIDIA GeForce GTX 580
+    Vendor:   NVIDIA
+    VRAM:     1487 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 DF24=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<I> Initializing (RawInput).
+<RI> Input initialized.
+Default GameObject Tag: Player already registered
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/BaseClasses/Tags.cpp Line: 55)
+
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Matthew\Documents\GitHub\fpsgame\executable\theforgotten_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Matthew\Documents\GitHub\fpsgame\executable\theforgotten_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Matthew\Documents\GitHub\fpsgame\executable\theforgotten_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Matthew\Documents\GitHub\fpsgame\executable\theforgotten_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Matthew\Documents\GitHub\fpsgame\executable\theforgotten_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Matthew\Documents\GitHub\fpsgame\executable\theforgotten_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Matthew\Documents\GitHub\fpsgame\executable\theforgotten_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\Matthew\Documents\GitHub\fpsgame\executable\theforgotten_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Matthew\Documents\GitHub\fpsgame\executable\theforgotten_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Matthew\Documents\GitHub\fpsgame\executable\theforgotten_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\Matthew\Documents\GitHub\fpsgame\executable\theforgotten_Data\Managed\Photon3Unity3D.dll (this message is harmless)
+Loading C:\Users\Matthew\Documents\GitHub\fpsgame\executable\theforgotten_Data\Managed\Photon3Unity3D.dll into Unity Child Domain
+Platform assembly: C:\Users\Matthew\Documents\GitHub\fpsgame\executable\theforgotten_Data\Managed\NGUI.dll (this message is harmless)
+Loading C:\Users\Matthew\Documents\GitHub\fpsgame\executable\theforgotten_Data\Managed\NGUI.dll into Unity Child Domain
+Platform assembly: C:\Users\Matthew\Documents\GitHub\fpsgame\executable\theforgotten_Data\Managed\Ionic.Zip.Reduced.dll (this message is harmless)
+Loading C:\Users\Matthew\Documents\GitHub\fpsgame\executable\theforgotten_Data\Managed\Ionic.Zip.Reduced.dll into Unity Child Domain
+Platform assembly: C:\Users\Matthew\Documents\GitHub\fpsgame\executable\theforgotten_Data\Managed\JsonFx.Json.dll (this message is harmless)
+Loading C:\Users\Matthew\Documents\GitHub\fpsgame\executable\theforgotten_Data\Managed\JsonFx.Json.dll into Unity Child Domain
+Platform assembly: C:\Users\Matthew\Documents\GitHub\fpsgame\executable\theforgotten_Data\Managed\DecalSystem.Runtime.dll (this message is harmless)
+Loading C:\Users\Matthew\Documents\GitHub\fpsgame\executable\theforgotten_Data\Managed\DecalSystem.Runtime.dll into Unity Child Domain
+- Completed reload, in  0.063 seconds
+Platform assembly: C:\Users\Matthew\Documents\GitHub\fpsgame\executable\theforgotten_Data\Managed\UnityScript.Lang.dll (this message is harmless)
+Platform assembly: C:\Users\Matthew\Documents\GitHub\fpsgame\executable\theforgotten_Data\Managed\Boo.Lang.dll (this message is harmless)
+Platform assembly: C:\Users\Matthew\Documents\GitHub\fpsgame\executable\theforgotten_Data\Managed\System.dll (this message is harmless)
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 65 unused Assets to reduce memory usage. Loaded Objects now: 29821. Operation took 25.313042 ms.
+Platform assembly: C:\Users\Matthew\Documents\GitHub\fpsgame\executable\theforgotten_Data\Managed\System.Core.dll (this message is harmless)
+This waypoint is not connected,you need to set the next waypoint!
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+This waypoint is not connected,you need to set the next waypoint!
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Scanning - Process took 355 ms to complete 
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+OnCreatedRoom
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+MoveToGameScene
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 29848. Operation took 27.874669 ms.
+This waypoint is not connected,you need to set the next waypoint!
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+This waypoint is not connected,you need to set the next waypoint!
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Scanning - Process took 311 ms to complete 
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+American Reinforcements have arrived
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+German Reinforcements have arrived
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Routing..
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+True
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Routing..
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+True
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Act of Courage
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Routing..
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+True
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Act of Courage
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Routing..
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+True
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Routing..
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Routing..
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+True
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Act of Courage
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Act of Courage
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Act of Courage
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Routing..
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+True
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at AI.MoveTowards () [0x00000] in <filename unknown>:0 
+  at AI+$Patrol$434+$.MoveNext () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+Act of Courage
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+Routing..
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+True
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+Act of Courage
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Act of Courage
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Routing..
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+NullReferenceException: Object reference not set to an instance of an object
+  at AI.MoveTowards () [0x00000] in <filename unknown>:0 
+  at AI+$Patrol$434+$.MoveNext () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+d3d: attempt to map null vertex buffer
+OnLeftRoom (local)
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 3493 unused Assets to reduce memory usage. Loaded Objects now: 30521. Operation took 60.266495 ms.
+This waypoint is not connected,you need to set the next waypoint!
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+This waypoint is not connected,you need to set the next waypoint!
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Connect() only works when disconnected. Current state: Disconnecting
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Scanning - Process took 342 ms to complete 
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Skipped rendering frame because GfxDevice is in invalid state (device lost)
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/Misc/Player.cpp Line: 1591)
+
+HandleD3DDeviceLost
+  HandleD3DDeviceLost: still lost
+Skipped rendering frame because GfxDevice is in invalid state (device lost)
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/Misc/Player.cpp Line: 1591)
+
+HandleD3DDeviceLost
+  HandleD3DDeviceLost: still lost
+Skipped rendering frame because GfxDevice is in invalid state (device lost)
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/Misc/Player.cpp Line: 1591)
+
+HandleD3DDeviceLost
+  HandleD3DDeviceLost: still lost
+Skipped rendering frame because GfxDevice is in invalid state (device lost)
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/Misc/Player.cpp Line: 1591)
+
+HandleD3DDeviceLost
+  HandleD3DDeviceLost: still lost
+Skipped rendering frame because GfxDevice is in invalid state (device lost)
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/Misc/Player.cpp Line: 1591)
+
+HandleD3DDeviceLost
+  HandleD3DDeviceLost: still lost
+Skipped rendering frame because GfxDevice is in invalid state (device lost)
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/Misc/Player.cpp Line: 1591)
+
+HandleD3DDeviceLost
+  HandleD3DDeviceLost: still lost
+Skipped rendering frame because GfxDevice is in invalid state (device lost)
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/Misc/Player.cpp Line: 1591)
+
+HandleD3DDeviceLost
+  HandleD3DDeviceLost: still lost
+Skipped rendering frame because GfxDevice is in invalid state (device lost)
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/Misc/Player.cpp Line: 1591)
+
+HandleD3DDeviceLost
+  HandleD3DDeviceLost: still lost
+Skipped rendering frame because GfxDevice is in invalid state (device lost)
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/Misc/Player.cpp Line: 1591)
+
+HandleD3DDeviceLost
+  HandleD3DDeviceLost: still lost
+Skipped rendering frame because GfxDevice is in invalid state (device lost)
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/Misc/Player.cpp Line: 1591)
+
+HandleD3DDeviceLost
+  HandleD3DDeviceLost: still lost
+Skipped rendering frame because GfxDevice is in invalid state (device lost)
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/Misc/Player.cpp Line: 1591)
+
+HandleD3DDeviceLost
+  HandleD3DDeviceLost: still lost
+Skipped rendering frame because GfxDevice is in invalid state (device lost)
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/Misc/Player.cpp Line: 1591)
+
+HandleD3DDeviceLost
+  HandleD3DDeviceLost: still lost
+Skipped rendering frame because GfxDevice is in invalid state (device lost)
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/Misc/Player.cpp Line: 1591)
+
+HandleD3DDeviceLost
+  HandleD3DDeviceLost: still lost
+Skipped rendering frame because GfxDevice is in invalid state (device lost)
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/Misc/Player.cpp Line: 1591)
+
+HandleD3DDeviceLost
+  HandleD3DDeviceLost: still lost
+Skipped rendering frame because GfxDevice is in invalid state (device lost)
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/Misc/Player.cpp Line: 1591)
+
+HandleD3DDeviceLost
+  HandleD3DDeviceLost: still lost
+Skipped rendering frame because GfxDevice is in invalid state (device lost)
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/Misc/Player.cpp Line: 1591)
+
+HandleD3DDeviceLost
+  HandleD3DDeviceLost: still lost
+Skipped rendering frame because GfxDevice is in invalid state (device lost)
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/Misc/Player.cpp Line: 1591)
+
+HandleD3DDeviceLost
+  HandleD3DDeviceLost: still lost
+Skipped rendering frame because GfxDevice is in invalid state (device lost)
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/Misc/Player.cpp Line: 1591)
+
+HandleD3DDeviceLost
+  HandleD3DDeviceLost: still lost
+Skipped rendering frame because GfxDevice is in invalid state (device lost)
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/Misc/Player.cpp Line: 1591)
+
+HandleD3DDeviceLost
+  HandleD3DDeviceLost: still lost
+Skipped rendering frame because GfxDevice is in invalid state (device lost)
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/Misc/Player.cpp Line: 1591)
+
+HandleD3DDeviceLost
+  HandleD3DDeviceLost: still lost
+Skipped rendering frame because GfxDevice is in invalid state (device lost)
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/Misc/Player.cpp Line: 1591)
+
+HandleD3DDeviceLost
+  HandleD3DDeviceLost: still lost
+Skipped rendering frame because GfxDevice is in invalid state (device lost)
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/Misc/Player.cpp Line: 1591)
+
+HandleD3DDeviceLost
+  HandleD3DDeviceLost: still lost
+Skipped rendering frame because GfxDevice is in invalid state (device lost)
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/Misc/Player.cpp Line: 1591)
+
+HandleD3DDeviceLost
+  HandleD3DDeviceLost: still lost
+Skipped rendering frame because GfxDevice is in invalid state (device lost)
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/Misc/Player.cpp Line: 1591)
+
+HandleD3DDeviceLost
+  HandleD3DDeviceLost: still lost
+Skipped rendering frame because GfxDevice is in invalid state (device lost)
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/Misc/Player.cpp Line: 1591)
+
+HandleD3DDeviceLost
+  HandleD3DDeviceLost: still lost
+Skipped rendering frame because GfxDevice is in invalid state (device lost)
+ 
+(Filename: C:/BuildAgent/work/b0bcff80449a48aa/Runtime/Misc/Player.cpp Line: 1591)
+
+HandleD3DDeviceLost
+  HandleD3DDeviceLost: still lost

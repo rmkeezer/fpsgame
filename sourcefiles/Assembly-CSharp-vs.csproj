@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+	<Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+	<ProductVersion>10.0.20506</ProductVersion>
+	<SchemaVersion>2.0</SchemaVersion>
+	<ProjectGuid>{C3DA89E1-70C6-7D6C-993E-C8F831D35880}</ProjectGuid>
+	<OutputType>Library</OutputType>
+	<AppDesignerFolder>Properties</AppDesignerFolder>
+	<RootNamespace></RootNamespace>
+	<AssemblyName>Assembly-CSharp</AssemblyName>
+	<TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+	<FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+	<DebugSymbols>true</DebugSymbols>
+	<DebugType>full</DebugType>
+	<Optimize>false</Optimize>
+	<OutputPath>Temp\bin\Debug\</OutputPath>
+	<DefineConstants>DEBUG;TRACE;UNITY_3_5_0;UNITY_3_5;UNITY_EDITOR;ENABLE_PROFILER;UNITY_WEBPLAYER;ENABLE_GENERICS;ENABLE_DUCK_TYPING;ENABLE_TERRAIN;ENABLE_MOVIES;ENABLE_WEBCAM;ENABLE_MICROPHONE;ENABLE_NETWORK;ENABLE_CLOTH;ENABLE_WWW;ENABLE_SUBSTANCE</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+	<DebugType>pdbonly</DebugType>
+	<Optimize>true</Optimize>
+	<OutputPath>Temp\bin\Release\</OutputPath>
+	<DefineConstants>TRACE</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+	<Reference Include="System" />
+    <Reference Include="System.XML" />
+	<Reference Include="System.Core" />
+	<Reference Include="UnityEngine">
+	  <HintPath>C:/Program Files (x86)/Unity3.5/Editor/Data/Managed/UnityEngine.dll</HintPath>
+	</Reference>
+	<Reference Include="UnityEditor">
+	  <HintPath>C:/Program Files (x86)/Unity3.5/Editor/Data/Managed/UnityEditor.dll</HintPath>
+	</Reference>
+  </ItemGroup>
+  <ItemGroup>
+     <Compile Include="Assets\DemoWorker\Scripts\Game\Chat.cs" />
+     <Compile Include="Assets\DemoWorker\Scripts\Game\GameManager.cs" />
+     <Compile Include="Assets\DemoWorker\Scripts\Game\Player\AINetwork.cs" />
+     <Compile Include="Assets\DemoWorker\Scripts\Game\Player\AINetworkAnimation.cs" />
+     <Compile Include="Assets\DemoWorker\Scripts\Game\Player\RagdollNetwork.cs" />
+     <Compile Include="Assets\DemoWorker\Scripts\Game\Player\ThirdPersonController.cs" />
+     <Compile Include="Assets\DemoWorker\Scripts\Game\Player\ThirdPersonNetwork.cs" />
+     <Compile Include="Assets\DemoWorker\Scripts\Game\Player\TruckNetwork.cs" />
+     <Compile Include="Assets\DemoWorker\Scripts\Menu\EnableScript.cs" />
+     <Compile Include="Assets\DemoWorker\Scripts\Menu\MainMenu.cs" />
+     <Compile Include="Assets\Detonator\System\Detonator.cs" />
+     <Compile Include="Assets\Detonator\System\DetonatorBurstEmitter.cs" />
+     <Compile Include="Assets\Detonator\System\DetonatorCloudRing.cs" />
+     <Compile Include="Assets\Detonator\System\DetonatorFireball.cs" />
+     <Compile Include="Assets\Detonator\System\DetonatorForce.cs" />
+     <Compile Include="Assets\Detonator\System\DetonatorGlow.cs" />
+     <Compile Include="Assets\Detonator\System\DetonatorHeatwave.cs" />
+     <Compile Include="Assets\Detonator\System\DetonatorLight.cs" />
+     <Compile Include="Assets\Detonator\System\DetonatorShockwave.cs" />
+     <Compile Include="Assets\Detonator\System\DetonatorSmoke.cs" />
+     <Compile Include="Assets\Detonator\System\DetonatorSound.cs" />
+     <Compile Include="Assets\Detonator\System\DetonatorSparks.cs" />
+     <Compile Include="Assets\Detonator\System\DetonatorSpray.cs" />
+     <Compile Include="Assets\GameAssets\Scripts\Bomb.cs" />
+     <Compile Include="Assets\GameAssets\Scripts\Bombardment.cs" />
+     <Compile Include="Assets\GameAssets\Scripts\TerrainDeformer.cs" />
+     <Compile Include="Assets\LitJson\IJsonWrapper.cs" />
+     <Compile Include="Assets\LitJson\JsonData.cs" />
+     <Compile Include="Assets\LitJson\JsonException.cs" />
+     <Compile Include="Assets\LitJson\JsonMapper.cs" />
+     <Compile Include="Assets\LitJson\JsonReader.cs" />
+     <Compile Include="Assets\LitJson\JsonWriter.cs" />
+     <Compile Include="Assets\LitJson\Lexer.cs" />
+     <Compile Include="Assets\LitJson\ParserToken.cs" />
+     <Compile Include="Assets\Misc Scripts\CustomTerrainScript.cs" />
+     <Compile Include="Assets\Misc Scripts\DeformTerrain.cs" />
+     <Compile Include="Assets\Misc Scripts\InstantXffect.cs" />
+     <Compile Include="Assets\Misc Scripts\ScoreBoard.cs" />
+     <Compile Include="Assets\NGUI\Examples\Scripts\Other\ChatInput.cs" />
+     <Compile Include="Assets\NGUI\Examples\Scripts\Other\DownloadTexture.cs" />
+     <Compile Include="Assets\NGUI\Examples\Scripts\Other\DragDropContainer.cs" />
+     <Compile Include="Assets\NGUI\Examples\Scripts\Other\DragDropItem.cs" />
+     <Compile Include="Assets\NGUI\Examples\Scripts\Other\DragDropRoot.cs" />
+     <Compile Include="Assets\NGUI\Examples\Scripts\Other\DragDropSurface.cs" />
+     <Compile Include="Assets\NGUI\Examples\Scripts\Other\LagPosition.cs" />
+     <Compile Include="Assets\NGUI\Examples\Scripts\Other\LagRotation.cs" />
+     <Compile Include="Assets\NGUI\Examples\Scripts\Other\LoadLevelOnClick.cs" />
+     <Compile Include="Assets\NGUI\Examples\Scripts\Other\LookAtTarget.cs" />
+     <Compile Include="Assets\NGUI\Examples\Scripts\Other\PanWithMouse.cs" />
+     <Compile Include="Assets\NGUI\Examples\Scripts\Other\PlayIdleAnimations.cs" />
+     <Compile Include="Assets\NGUI\Examples\Scripts\Other\SetColorOnSelection.cs" />
+     <Compile Include="Assets\NGUI\Examples\Scripts\Other\ShaderQuality.cs" />
+     <Compile Include="Assets\NGUI\Examples\Scripts\Other\Spin.cs" />
+     <Compile Include="Assets\NGUI\Examples\Scripts\Other\SpinWithMouse.cs" />
+     <Compile Include="Assets\NGUI\Examples\Scripts\Other\TypewriterEffect.cs" />
+     <Compile Include="Assets\NGUI\Examples\Scripts\Other\WindowAutoYaw.cs" />
+     <Compile Include="Assets\NGUI\Examples\Scripts\Other\WindowDragTilt.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Interaction\LanguageSelection.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Interaction\UIButton.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Interaction\UIButtonColor.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Interaction\UIButtonKeys.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Interaction\UIButtonMessage.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Interaction\UIButtonOffset.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Interaction\UIButtonPlayAnimation.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Interaction\UIButtonRotation.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Interaction\UIButtonScale.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Interaction\UIButtonSound.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Interaction\UIButtonTween.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Interaction\UICheckbox.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Interaction\UICheckboxControlledComponent.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Interaction\UICheckboxControlledObject.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Interaction\UIDragCamera.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Interaction\UIDragObject.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Interaction\UIDragPanelContents.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Interaction\UIDraggableCamera.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Interaction\UIDraggablePanel.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Interaction\UIForwardEvents.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Interaction\UIGrid.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Interaction\UIImageButton.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Interaction\UIInputValidator.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Interaction\UIPopupList.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Interaction\UISavedOption.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Interaction\UIScrollBar.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Interaction\UISlider.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Interaction\UISliderColors.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Interaction\UITable.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Internal\Localization.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Internal\SpringPanel.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Tweening\TweenColor.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Tweening\TweenPosition.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Tweening\TweenRotation.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Tweening\TweenScale.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Tweening\TweenTransform.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Tweening\TweenVolume.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Tweening\UITweener.cs" />
+     <Compile Include="Assets\NGUI\Scripts\UI\UIAnchor.cs" />
+     <Compile Include="Assets\NGUI\Scripts\UI\UIAtlas.cs" />
+     <Compile Include="Assets\NGUI\Scripts\UI\UICamera.cs" />
+     <Compile Include="Assets\NGUI\Scripts\UI\UIFilledSprite.cs" />
+     <Compile Include="Assets\NGUI\Scripts\UI\UIFont.cs" />
+     <Compile Include="Assets\NGUI\Scripts\UI\UIInput.cs" />
+     <Compile Include="Assets\NGUI\Scripts\UI\UIInputSaved.cs" />
+     <Compile Include="Assets\NGUI\Scripts\UI\UILabel.cs" />
+     <Compile Include="Assets\NGUI\Scripts\UI\UILocalize.cs" />
+     <Compile Include="Assets\NGUI\Scripts\UI\UIOrthoCamera.cs" />
+     <Compile Include="Assets\NGUI\Scripts\UI\UIPanel.cs" />
+     <Compile Include="Assets\NGUI\Scripts\UI\UIRoot.cs" />
+     <Compile Include="Assets\NGUI\Scripts\UI\UISlicedSprite.cs" />
+     <Compile Include="Assets\NGUI\Scripts\UI\UISprite.cs" />
+     <Compile Include="Assets\NGUI\Scripts\UI\UISpriteAnimation.cs" />
+     <Compile Include="Assets\NGUI\Scripts\UI\UIStretch.cs" />
+     <Compile Include="Assets\NGUI\Scripts\UI\UITextList.cs" />
+     <Compile Include="Assets\NGUI\Scripts\UI\UITexture.cs" />
+     <Compile Include="Assets\NGUI\Scripts\UI\UITiledSprite.cs" />
+     <Compile Include="Assets\NGUI\Scripts\UI\UITooltip.cs" />
+     <Compile Include="Assets\NGUI\Scripts\UI\UIViewport.cs" />
+     <Compile Include="Assets\Photon Unity Networking\DemoBoxes\OnAwakePhysicsSettings.cs" />
+     <Compile Include="Assets\Photon Unity Networking\DemoBoxes\TestChangeScene.cs" />
+     <Compile Include="Assets\Photon Unity Networking\DemoBoxes\TestGuiInstantiate.cs" />
+     <Compile Include="Assets\Photon Unity Networking\DemoFriendsAndCustomAuth\GUICustomAuth.cs" />
+     <Compile Include="Assets\Photon Unity Networking\DemoFriendsAndCustomAuth\GUIFriendFinding.cs" />
+     <Compile Include="Assets\Photon Unity Networking\DemoFriendsAndCustomAuth\GUIFriendsInRoom.cs" />
+     <Compile Include="Assets\Photon Unity Networking\DemoHub\MoveCam.cs" />
+     <Compile Include="Assets\Photon Unity Networking\DemoSynchronization\CubeExtra.cs" />
+     <Compile Include="Assets\Photon Unity Networking\DemoSynchronization\CubeInter.cs" />
+     <Compile Include="Assets\Photon Unity Networking\DemoSynchronization\CubeLerp.cs" />
+     <Compile Include="Assets\Photon Unity Networking\DemoSynchronization\IELdemo.cs" />
+     <Compile Include="Assets\Photon Unity Networking\MarcoPolo-Tutorial\AudioRpc.cs" />
+     <Compile Include="Assets\Photon Unity Networking\MarcoPolo-Tutorial\ClickDetector.cs" />
+     <Compile Include="Assets\Photon Unity Networking\MarcoPolo-Tutorial\GameLogic.cs" />
+     <Compile Include="Assets\Photon Unity Networking\MarcoPolo-Tutorial\Monstergame\Resources\Scripts\myThirdPersonController.cs" />
+     <Compile Include="Assets\Photon Unity Networking\MarcoPolo-Tutorial\NetworkCharacter.cs" />
+     <Compile Include="Assets\Photon Unity Networking\MarcoPolo-Tutorial\RandomMatchmaker.cs" />
+     <Compile Include="Assets\PhotonAssets\Meshes\TestPro\Image Based\BlurEffect.cs" />
+     <Compile Include="Assets\PhotonAssets\Meshes\TestPro\Image Based\ColorCorrectionEffect.cs" />
+     <Compile Include="Assets\PhotonAssets\Meshes\TestPro\Image Based\Contrast Stretch\ContrastStretchEffect.cs" />
+     <Compile Include="Assets\PhotonAssets\Meshes\TestPro\Image Based\EdgeDetectEffect.cs" />
+     <Compile Include="Assets\PhotonAssets\Meshes\TestPro\Image Based\GlowEffect.cs" />
+     <Compile Include="Assets\PhotonAssets\Meshes\TestPro\Image Based\GrayscaleEffect.cs" />
+     <Compile Include="Assets\PhotonAssets\Meshes\TestPro\Image Based\ImageEffectBase.cs" />
+     <Compile Include="Assets\PhotonAssets\Meshes\TestPro\Image Based\ImageEffects.cs" />
+     <Compile Include="Assets\PhotonAssets\Meshes\TestPro\Image Based\MotionBlur.cs" />
+     <Compile Include="Assets\PhotonAssets\Meshes\TestPro\Image Based\NoiseEffect.cs" />
+     <Compile Include="Assets\PhotonAssets\Meshes\TestPro\Image Based\SSAOEffect.cs" />
+     <Compile Include="Assets\PhotonAssets\Meshes\TestPro\Image Based\SepiaToneEffect.cs" />
+     <Compile Include="Assets\PhotonAssets\Meshes\TestPro\Image Based\TwirlEffect.cs" />
+     <Compile Include="Assets\PhotonAssets\Meshes\TestPro\Image Based\VortexEffect.cs" />
+     <Compile Include="Assets\PhotonAssets\Scripts\glass\GlassManager.cs" />
+     <Compile Include="Assets\PhotonAssets\Scripts\glass\GlassMark.cs" />
+     <Compile Include="Assets\PhotonAssets\Scripts\glass\GlassScript.cs" />
+     <Compile Include="Assets\PhotonAssets\Scripts\glass\GlassStruct.cs" />
+     <Compile Include="Assets\PhotonAssets\Scripts\graphics\WatterPuddle.cs" />
+     <Compile Include="Assets\PhotonAssets\Scripts\huds\Decal.cs" />
+     <Compile Include="Assets\PhotonAssets\Scripts\huds\DecalMode.cs" />
+     <Compile Include="Assets\PhotonAssets\Scripts\huds\DecalPolygon.cs" />
+     <Compile Include="Assets\PhotonAssets\Scripts\misc\GameSoundManager.cs" />
+     <Compile Include="Assets\PhotonAssets\Scripts\physics\IgnoreCollider.cs" />
+     <Compile Include="Assets\TerrainToolkit\TerrainToolkit.cs" />
+     <Compile Include="Assets\Textures\0000 ats V2 package\atsV2 UnityTerrainBump Package\CustomTerrainScriptAtsV2.cs" />
+     <Compile Include="Assets\UtilityScripts\ConnectAndJoinRandom.cs" />
+     <Compile Include="Assets\UtilityScripts\InputToEvent.cs" />
+     <Compile Include="Assets\UtilityScripts\ManualPhotonViewAllocator.cs" />
+     <Compile Include="Assets\UtilityScripts\OnAwakeUsePhotonView.cs" />
+     <Compile Include="Assets\UtilityScripts\OnClickDestroy.cs" />
+     <Compile Include="Assets\UtilityScripts\OnClickInstantiate.cs" />
+     <Compile Include="Assets\UtilityScripts\OnClickLoadSomething.cs" />
+     <Compile Include="Assets\UtilityScripts\PointedAtGameObjectInfo.cs" />
+     <Compile Include="Assets\UtilityScripts\ServerTime.cs" />
+     <Compile Include="Assets\UtilityScripts\TestBase.cs" />
+     <Compile Include="Assets\UtilityScripts\TestDontDestroyOnLoad.cs" />
+     <Compile Include="Assets\UtilityScripts\TimeKeeper.cs" />
+     <Compile Include="Assets\WeaponScripts\pathfindingthing.cs" />
+     <Compile Include="Assets\Xffect\Examples\Scripts\CompositeXffect.cs" />
+     <Compile Include="Assets\Xffect\Examples\Scripts\ExampleCamera.cs" />
+     <Compile Include="Assets\Xffect\Examples\Scripts\ExampleManager.cs" />
+     <Compile Include="Assets\Xffect\Examples\Scripts\SimpleMissile.cs" />
+     <Compile Include="Assets\Xffect\Examples\Scripts\TrenchesManager.cs" />
+     <Compile Include="Assets\Xffect\Script\Affectors\Affector.cs" />
+     <Compile Include="Assets\Xffect\Script\Affectors\AirFieldAffector.cs" />
+     <Compile Include="Assets\Xffect\Script\Affectors\BombAffector.cs" />
+     <Compile Include="Assets\Xffect\Script\Affectors\GravityAffector.cs" />
+     <Compile Include="Assets\Xffect\Script\Affectors\TurbulenceFieldAffector.cs" />
+     <Compile Include="Assets\Xffect\Script\Affectors\VortexAffector.cs" />
+     <Compile Include="Assets\Xffect\Script\Component\EffectLayer.cs" />
+     <Compile Include="Assets\Xffect\Script\Component\XffectCache.cs" />
+     <Compile Include="Assets\Xffect\Script\Component\XffectComponent.cs" />
+     <Compile Include="Assets\Xffect\Script\Cone.cs" />
+     <Compile Include="Assets\Xffect\Script\EffectNode.cs" />
+     <Compile Include="Assets\Xffect\Script\Emitter.cs" />
+     <Compile Include="Assets\Xffect\Script\RenderObject.cs" />
+     <Compile Include="Assets\Xffect\Script\RibbonTrail.cs" />
+     <Compile Include="Assets\Xffect\Script\Sprite.cs" />
+     <Compile Include="Assets\Xffect\Script\UVAnimation.cs" />
+     <Compile Include="Assets\Xffect\Script\VertexPool.cs" />
+     <Compile Include="Assets\custom assets\scripts\MouseLook.cs" />
+     <Compile Include="Assets\stuffnotusing\Extra GUI Skins\SkinTest.cs" />
+     <None Include="Assets\NGUI\Resources\Shaders\Depth.shader" />
+     <None Include="Assets\Textures\0000 ats V2 package\readme_treeBarkShader.txt" />
+     <None Include="Assets\Standard Assets\Projectors\Guidelines.txt" />
+     <None Include="Assets\Hard Surface Free\HardSurface Shaders\HardSurfacePro Hidden Front Cut Out Specular.shader" />
+     <None Include="Assets\PhotonAssets\Meshes\TestPro\Image Based\Contrast Stretch\Apply.shader" />
+     <None Include="Assets\Hard Surface Free\HardSurface Shaders\HardSurface Free Cut Out Opaque Bump.shader" />
+     <None Include="Assets\PhotonAssets\Meshes\TestPro\Image Based\EdgeDetectX.shader" />
+     <None Include="Assets\Standard Assets (Mobile)\Shaders\Particle Shaders\Mobile Multiply Culled.shader" />
+     <None Include="Assets\Plugins\Decal System\Shader\Decal-Alpha-Diffuse.shader" />
+     <None Include="Assets\Hole in terrain\Bumped.shader" />
+     <None Include="Assets\Standard Assets\Toon Shading\Sources\Shaders\Toony-Basic.shader" />
+     <None Include="Assets\Hole in terrain\Mask.shader" />
+     <None Include="Assets\PhotonAssets\Meshes\TestPro\Glass Refraction\Glass-Stained-BumpDistort 1.shader" />
+     <None Include="Assets\Standard Assets (Mobile)\Shaders\Miscellaneous Shaders\Mobile Background.shader" />
+     <None Include="Assets\AstarPathfindingEditor\Editor\EditorAssets\Materials\Navmesh2.shader" />
+     <None Include="Assets\Standard Assets\Projectors\Sources\Shaders\Projector Multiply.shader" />
+     <None Include="Assets\Standard Assets (Mobile)\Shaders\Vertex Colored Shaders\Mobile Transparent Vertex Color.shader" />
+     <None Include="Assets\NGUI\Examples\Atlases\Wooden\Arimo20.txt" />
+     <None Include="Assets\NGUI\Examples\Atlases\Wooden\Arimo14.txt" />
+     <None Include="Assets\Hard Surface Free\HardSurface Shaders\HardSurfacePro Hidden Front Transparent.shader" />
+     <None Include="Assets\PhotonAssets\Meshes\TestPro\Image Based\TwirlEffect.shader" />
+     <None Include="Assets\Hard Surface Free\HardSurface Shaders\HardSurfacePro Hidden Front Transparent Specular.shader" />
+     <None Include="Assets\Plugins\Decal System\Shader\Decal-Alpha-VertexLit.shader" />
+     <None Include="Assets\Textures\0000 ats V2 package\readme_grassShader.txt" />
+     <None Include="Assets\Plugins\Photon3Unity3D.xml" />
+     <None Include="Assets\Plugins\Decal System\Shader\Mobile\Mobile-Decal-AlphaTest-Bumped.shader" />
+     <None Include="Assets\Photon Unity Networking\MarcoPolo-Tutorial\marcopolo-readme.txt" />
+     <None Include="Assets\Plugins\PhotonNetwork\library\Photon3Unity3D.xml" />
+     <None Include="Assets\Hard Surface Free\HardSurface Shaders\HardSurface Free Transparent Specular.shader" />
+     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Masked Colored.shader" />
+     <None Include="Assets\Hard Surface Free\HardSurface Shaders\HardSurface Free Transparent Bump.shader" />
+     <None Include="Assets\Plugins\AstarPathfindingProject\Readme_upgrading.txt" />
+     <None Include="Assets\NGUI\Examples\Atlases\Wooden\Arimo18.txt" />
+     <None Include="Assets\Textures\0000 ats V2 package\atsV2 billboardShader package\TreeCreatorLeavesRendertex.shader" />
+     <None Include="Assets\Plugins\Decal System\Readme.txt" />
+     <None Include="Assets\Plugins\AstarPathfindingProject\Plugins\DotNetZip\License.txt" />
+     <None Include="Assets\Textures\0000 ats V2 package\atsV2 billboardShader package\TreeCreatorBarkRendertex.shader" />
+     <None Include="Assets\Textures\0000 ats V2 package\ats pathShader Package\Shader\ats Road Path bumped diffuse alphatest.shader" />
+     <None Include="Assets\Misc Scripts\TerrainReplacement.shader" />
+     <None Include="Assets\PhotonAssets\Meshes\TestPro\Image Based\GrayscaleEffect.shader" />
+     <None Include="Assets\Standard Assets (Mobile)\Shaders\Miscellaneous Shaders\Mobile Detail.shader" />
+     <None Include="Assets\Standard Assets\Particles\Sources\Shaders\Particle Alpha Blend (Queue +100).shader" />
+     <None Include="Assets\PhotonAssets\Prefabs\Resources\Font.shader" />
+     <None Include="Assets\Hard Surface Free\HardSurface Shaders\HardSurfacePro Hidden Front Cut Out Opaque Bump.shader" />
+     <None Include="Assets\Hard Surface Free\HardSurface Shaders\HardSurface Free Opaque.shader" />
+     <None Include="Assets\PhotonAssets\Meshes\TestPro\Image Based\VortexEffect.shader" />
+     <None Include="Assets\Plugins\PhotonNetwork\library\release_history.txt" />
+     <None Include="Assets\Plugins\AstarPathfindingProject\ExampleScenes\Materials\Projector Multiply.shader" />
+     <None Include="Assets\Hard Surface Free\HardSurface Shaders\HardSurface Free Cut Out Diffuse.shader" />
+     <None Include="Assets\NGUI\Examples\Atlases\SciFi\SciFi Font - Header.txt" />
+     <None Include="Assets\Textures\0000 ats V2 package\ats vertexLitShader Package\Shader\atsv2 vertexlit.shader" />
+     <None Include="Assets\Textures\0000 ats V2 package\atsV2 grassShader Package\atsV2WavingGrass.shader" />
+     <None Include="Assets\PhotonAssets\Meshes\TestPro\Glass Refraction\Glass-Stained-BumpDistort.shader" />
+     <None Include="Assets\Detonator\Resources\Detonator\Textures\HeatDistort.shader" />
+     <None Include="Assets\Hard Surface Free\HardSurface Shaders\HardSurface Free Cut Out Opaque Diffuse.shader" />
+     <None Include="Assets\Plugins\Decal System\Shader\Decal-AlphaTest-VertexLit.shader" />
+     <None Include="Assets\Standard Assets\Skyboxes\_skybox info.txt" />
+     <None Include="Assets\Textures\0000 ats V2 package\readme_billboardShader.txt" />
+     <None Include="Assets\Editor\TerrainReplacement.shader" />
+     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Transparent Colored (AlphaClip).shader" />
+     <None Include="Assets\Hard Surface Free\HardSurface Shaders\HardSurfacePro Hidden Front Opaque Bump.shader" />
+     <None Include="Assets\Plugins\Decal System\Shader\Decal-AlphaTest-Diffuse.shader" />
+     <None Include="Assets\Hole in terrain\Depth Mask.shader" />
+     <None Include="Assets\Plugins\AstarPathfindingProject\ExampleScenes\Materials\DiffuseAlwaysVisible.shader" />
+     <None Include="Assets\NGUI\Examples\Atlases\Fantasy\Fantasy Font - Normal.txt" />
+     <None Include="Assets\Hard Surface Free\HardSurface Shaders\HardSurface Free Transparent.shader" />
+     <None Include="Assets\Textures\0000 ats V2 package\atsV2 billboardShader package\Tree.cginc" />
+     <None Include="Assets\AstarPathfindingEditor\Editor\EditorAssets\Materials\Navmesh.shader" />
+     <None Include="Assets\Plugins\Decal System\Shader\Mobile\Mobile-Decal-Alpha-Diffuse.shader" />
+     <None Include="Assets\Xffect\readme.txt" />
+     <None Include="Assets\Plugins\Decal System\Shader\Decal-Alpha-Diffuse-Colored.shader" />
+     <None Include="Assets\NGUI\Examples\Atlases\Refractive\Refractive Font - Normal.txt" />
+     <None Include="Assets\PhotonAssets\Meshes\TestPro\Image Based\frag_ao.cginc" />
+     <None Include="Assets\Plugins\AstarPathfindingProject\Plugins\dependencies.txt" />
+     <None Include="Assets\Hard Surface Free\HardSurface Shaders\HardSurfacePro Hidden Front Opaque Diffuse.shader" />
+     <None Include="Assets\Plugins\Decal System\Release Notes.txt" />
+     <None Include="Assets\Plugins\AstarPathfindingProject\ExampleScenes\_Example Scenes.txt" />
+     <None Include="Assets\Hard Surface Free\HardSurface Shaders\HardSurface Free Transparent Diffuse.shader" />
+     <None Include="Assets\Standard Assets\Toon Shading\Sources\Shaders\Toony-BasicOutline.shader" />
+     <None Include="Assets\PhotonAssets\Meshes\TestPro\Glass Refraction\Particle Add.shader" />
+     <None Include="Assets\PhotonAssets\Meshes\TestPro\Image Based\MotionBlur.shader" />
+     <None Include="Assets\Hard Surface Free\HardSurface Shaders\HardSurfacePro Hidden Front Cut Out Diffuse.shader" />
+     <None Include="Assets\PhotonAssets\Meshes\TestPro\Image Based\Contrast Stretch\Adaptation.shader" />
+     <None Include="Assets\Plugins\Android\res\values\strings.xml" />
+     <None Include="Assets\Textures\Alex95 Texture Pack 1\Readme.txt" />
+     <None Include="Assets\Hard Surface Free\HardSurface Shaders\HardSurface Free Opaque Diffuse.shader" />
+     <None Include="Assets\Textures\0000 ats V2 package\readme_terrainBumpShader.txt" />
+     <None Include="Assets\Standard Assets\Projectors\Sources\Shaders\Projector Light.shader" />
+     <None Include="Assets\Hard Surface Free\HardSurface Shaders\HardSurfacePro Hidden Front Cut Out Opaque Specular.shader" />
+     <None Include="Assets\Textures\0000 ats V2 package\atsV2 UnityTerrainBump Package\TerrainReplacementAtsV2.shader" />
+     <None Include="Assets\Standard Assets\Water (Basic)\Sources\Shaders\FX-Water Simple.shader" />
+     <None Include="Assets\Plugins\Decal System\Shader\Decal-Alpha-TargetBumped.shader" />
+     <None Include="Assets\Hard Surface Free\HardSurface Shaders\HardSurface Free Opaque Bump.shader" />
+     <None Include="Assets\Standard Assets (Mobile)\Shaders\Lightmap Shaders (Legacy)\Mobile Lightmap Reflective.shader" />
+     <None Include="Assets\PhotonAssets\Meshes\TestPro\Glass Refraction\Glass-Stained-BumpSpecDistort.shader" />
+     <None Include="Assets\Plugins\Decal System\Shader\Decal-AlphaTest-Bumped.shader" />
+     <None Include="Assets\Standard Assets (Mobile)\Shaders\Particle Shaders\Mobile Particles Additive Culled.shader" />
+     <None Include="Assets\PhotonAssets\Meshes\TestPro\Image Based\NoiseEffectShaderYUV.shader" />
+     <None Include="Assets\PhotonAssets\Meshes\TestPro\Image Based\GlowEffectDownsample.shader" />
+     <None Include="Assets\Photon Unity Networking\DemoBoxes\Resources\eurof_tt.txt" />
+     <None Include="Assets\Standard Assets\Toon Shading\Sources\Shaders\Toony-LightedOutline.shader" />
+     <None Include="Assets\Hard Surface Free\HardSurface Shaders\HardSurface Free Cut Out Opaque Specular.shader" />
+     <None Include="Assets\Standard Assets\Toon Shading\Sources\Shaders\Toony-Lighted.shader" />
+     <None Include="Assets\NGUI\ReadMe.txt" />
+     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Transparent Colored.shader" />
+     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Transparent Colored (HardClip).shader" />
+     <None Include="Assets\Plugins\AstarPathfindingProject\ExampleScenes\Materials\Projector Light.shader" />
+     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Transparent Colored Overlay.shader" />
+     <None Include="Assets\Hard Surface Free\HardSurface Shaders\HardSurfacePro Hidden Front Cut Out Bump.shader" />
+     <None Include="Assets\Plugins\AstarPathfindingProject\Readme.txt" />
+     <None Include="Assets\NGUI\Examples\Other\English.txt" />
+     <None Include="Assets\PhotonAssets\Meshes\TestPro\Glass Refraction\Glass-Stained-BumpDistort 2.shader" />
+     <None Include="Assets\Hard Surface Free\HardSurface Shaders\HardSurfacePro Hidden Front Transparent Diffuse.shader" />
+     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Transparent Colored (Packed).shader" />
+     <None Include="Assets\Hard Surface Free\HardSurface Shaders\HardSurfacePro Hidden Front Opaque.shader" />
+     <None Include="Assets\Plugins\AstarPathfindingProject\link.xml" />
+     <None Include="Assets\Plugins\Decal System\Shader\Mobile\Mobile-Decal-Alpha-Bumped.shader" />
+     <None Include="Assets\PhotonAssets\Meshes\TestPro\Image Based\Contrast Stretch\MinMaxReduction.shader" />
+     <None Include="Assets\Hard Surface Free\HardSurface Shaders\HardSurface Free Cut Out Specular.shader" />
+     <None Include="Assets\Standard Assets (Mobile)\Shaders\Vertex Colored Shaders\Mobile Vertex Colored.shader" />
+     <None Include="Assets\Hard Surface Free\HardSurface Shaders\HardSurfacePro Hidden Front Cut Out Opaque Diffuse.shader" />
+     <None Include="Assets\Hard Surface Free\HardSurface Shaders\HardSurfacePro Hidden Front Transparent Bump.shader" />
+     <None Include="Assets\PhotonAssets\Meshes\TestPro\Image Based\ColorCorrectionEffect.shader" />
+     <None Include="Assets\Standard Assets (Mobile)\Shaders\Lightmap Shaders (Legacy)\Mobile Lightmap Only.shader" />
+     <None Include="Assets\Standard Assets (Mobile)\Shaders\Lightmap Shaders (Legacy)\Mobile Lightmap AlphaTest.shader" />
+     <None Include="Assets\PhotonAssets\Meshes\TestPro\Image Based\Contrast Stretch\Luminance.shader" />
+     <None Include="Assets\PhotonAssets\Meshes\TestPro\Image Based\SSAOShader.shader" />
+     <None Include="Assets\Photon Unity Networking\readme.txt" />
+     <None Include="Assets\Plugins\AstarPathfindingProject\Plugins\JsonFx\License.txt" />
+     <None Include="Assets\Plugins\Decal System\DecalSystem.Runtime.xml" />
+     <None Include="Assets\LitJson\license.txt" />
+     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Additive Colored.shader" />
+     <None Include="Assets\Plugins\AstarPathfindingProject\Plugins\JsonFx\Readme.txt" />
+     <None Include="Assets\Plugins\Decal System\Shader\Mobile\Mobile-Decal-AlphaTest-TargetBumped.shader" />
+     <None Include="Assets\PhotonAssets\Meshes\TestPro\Image Based\SepiaToneEffect.shader" />
+     <None Include="Assets\Plugins\Android\res\layout\main.xml" />
+     <None Include="Assets\Plugins\Android\AndroidManifest.xml" />
+     <None Include="Assets\NGUI\Examples\Atlases\Refractive\Refractive Font - Header.txt" />
+     <None Include="Assets\NGUI\Examples\Shaders\Refractive.shader" />
+     <None Include="Assets\Plugins\Decal System\Shader\Decal-Alpha-Bumped.shader" />
+     <None Include="Assets\Plugins\Decal System\Shader\Decal-AlphaTest-TargetBumped.shader" />
+     <None Include="Assets\NGUI\Examples\Atlases\SciFi\SciFi Font - Normal.txt" />
+     <None Include="Assets\Plugins\Decal System\Shader\Mobile\Mobile-Decal-AlphaTest-Diffuse.shader" />
+     <None Include="Assets\Hard Surface Free\HardSurface Shaders\HardSurface Free Cut Out Bump.shader" />
+     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Transparent Colored (SoftClip).shader" />
+     <None Include="Assets\Hard Surface Free\HardSurface Shaders\HardSurface Free Opaque Specular.shader" />
+     <None Include="Assets\PhotonAssets\Meshes\TestPro\Image Based\NoiseEffectShaderRGB.shader" />
+     <None Include="Assets\Misc Scripts\TerrainReplacement(additive).shader" />
+     <None Include="Assets\TerrainReplacement.shader" />
+     <None Include="Assets\Hard Surface Free\HardSurface Shaders\HardSurfacePro Hidden Front Opaque Specular.shader" />
+     <None Include="Assets\Plugins\Readme.txt" />
+     <None Include="Assets\Hard Surface Free\HardSurface Shaders\HardSurface SFX Depth Write Only.shader" />
+     <None Include="Assets\Lib\Photon3Unity3D.xml" />
+     <None Include="Assets\Photon Unity Networking\changelog.txt" />
+     <None Include="Assets\TerrainToolkit\Read me.txt" />
+     <None Include="Assets\Textures\0000 ats V2 package\readme_vertexLitShader.txt" />
+     <None Include="Assets\Plugins\Decal System\Shader\Mobile\Mobile-Decal-Alpha-TargetBumped.shader" />
+ <Reference Include="Assembly-UnityScript-firstpass">
+ <HintPath>Library\ScriptAssemblies\Assembly-UnityScript-firstpass.dll</HintPath>
+ </Reference>
+ <Reference Include="Photon3Unity3D">
+ <HintPath>Assets\Plugins\PhotonNetwork\library\Photon3Unity3D.dll</HintPath>
+ </Reference>
+ <Reference Include="NGUI">
+ <HintPath>Assets\NGUI\DLLs\NGUI.dll</HintPath>
+ </Reference>
+ <Reference Include="Ionic.Zip.Reduced">
+ <HintPath>Assets\Plugins\AstarPathfindingProject\Plugins\DotNetZip\Ionic.Zip.Reduced.dll</HintPath>
+ </Reference>
+ <Reference Include="JsonFx.Json">
+ <HintPath>Assets\Plugins\AstarPathfindingProject\Plugins\JsonFx\JsonFx.Json.dll</HintPath>
+ </Reference>
+ <Reference Include="DecalSystem.Runtime">
+ <HintPath>Assets\Plugins\Decal System\DecalSystem.Runtime.dll</HintPath>
+ </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="Assembly-CSharp-firstpass-vs.csproj">
+      <Project>{518622B2-9050-A153-E465-3E4BD155181A}</Project>      <Name>Assembly-CSharp-firstpass-vs</Name>    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+	   Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  
+</Project>

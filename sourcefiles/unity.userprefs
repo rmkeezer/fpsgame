@@ -1,0 +1,22 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\Project\Assets\Scripts\Path Finding\grid.cs">
+    <Files>
+      <File FileName="..\Project\Assets\Scripts\buildings\building.cs" Line="51" Column="3" />
+      <File FileName="..\Project\Assets\Scripts\buildings\airpad.cs" Line="16" Column="37" />
+      <File FileName="..\Project\Assets\Scripts\Camera\mainCamera.cs" Line="51" Column="17" />
+      <File FileName="..\Project\Assets\Scripts\unit\IFF.cs" Line="17" Column="7" />
+      <File FileName="..\Project\Assets\Scripts\unit\unitManager.cs" Line="231" Column="13" />
+      <File FileName="..\Project\Assets\Scripts\GUI\gui.cs" Line="1778" Column="35" />
+      <File FileName="..\Project\Assets\Scripts\AI\unitLogic.cs" Line="11" Column="33" />
+      <File FileName="..\Project\Assets\Scripts\Manager\manager.cs" Line="1" Column="1" />
+      <File FileName="..\Project\Assets\Scripts\Navigation\selected.cs" Line="10" Column="29" />
+      <File FileName="..\Project\Assets\Scripts\Path Finding\movement.cs" Line="129" Column="6" />
+      <File FileName="..\Project\Assets\Scripts\Path Finding\grid.cs" Line="202" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
